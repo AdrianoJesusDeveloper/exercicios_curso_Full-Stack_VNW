@@ -76,13 +76,7 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou ent
 Para salvar este arquivo, você pode usar o seguinte comando:
 
 ```bash
-echo '# Exercícios de Programação
 
-Este repositório contém uma coleção de exercícios de programação para prática e aprendizado. Cada exercício foi projetado para ajudar a desenvolver habilidades específicas de programação e lógica.
-
-## Estrutura do Repositório
-
-Os exercícios estão organizados por tópicos e níveis de dificuldade. Cada pasta contém um conjunto de problemas relacionados a um tema específico.
 
 ## Como Usar
 
