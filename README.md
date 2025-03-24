@@ -82,6 +82,6 @@ Para salvar este arquivo, você pode usar o seguinte comando:
 
 1. Clone este repositório:
 \`\`\`bash
-git clone https://github.com/seu-usuario/exercicios-programacao.git
+git clone https://github.com/AdrianoJesusDeveloper/exercicios_curso_Full-Stack_VNW)
 \`\`\`
 ```
