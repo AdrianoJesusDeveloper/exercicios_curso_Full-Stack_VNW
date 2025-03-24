@@ -9,33 +9,49 @@ Os exercícios estão organizados por tópicos e níveis de dificuldade. Cada pa
 ## Como Usar
 
 1. Clone este repositório:
+
 ```bash
 git clone https://github.com/seu-usuario/exercicios-programacao.git
 ```
 
-2. Navegue até a pasta do exercício que deseja resolver
-3. Leia o enunciado do problema
-4. Implemente sua solução
-5. Execute os testes para verificar se sua solução está correta
+2.Navegue até a pasta do exercício que deseja resolver
+
+3.Leia o enunciado do problema
+
+4.Implemente sua solução
+
+5.Execute os testes para verificar se sua solução está correta
 
 ## Lista de Exercícios
 
 ### Básicos
+
 - Manipulação de variáveis
+
 - Estruturas condicionais
+
 - Loops e iterações
+
 - Funções básicas
 
 ### Intermediários
+
 - Manipulação de arrays e listas
+
 - Algoritmos de ordenação
+
 - Recursão
+
 - Manipulação de strings
 
 ### Avançados
+
 - Estruturas de dados complexas
+
 - Algoritmos de busca
+
 - Programação orientada a objetos
+
 - Otimização de código
 
 ## Contribuindo
@@ -76,5 +92,3 @@ Os exercícios estão organizados por tópicos e níveis de dificuldade. Cada pa
 git clone https://github.com/seu-usuario/exercicios-programacao.git
 \`\`\`
 ```
-
-
